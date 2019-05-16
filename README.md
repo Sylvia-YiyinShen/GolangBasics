@@ -1,8 +1,8 @@
 # GolangBasics
 
-cd basics
-go build
-./basics
+- cd basics
+- go build
+- ./basics
 
 
 Starter Guide
